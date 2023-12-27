@@ -6,7 +6,7 @@ Understanding and addressing issues and impacts of bioaccumulation throughout al
 
 ## Partner Network
 
-To the right is a visual representation of the partners *currently* in our network. Below we include discriptions of and links to related partner program websites.
+Below is a visual representation of the partners currently in our network as well as descriptions of and links to partner websites.
 
 ![Network map of STEW and Program partners](images/network_map.png){fig-alt="A visual representation of the partner organizations in the Program and STEW network."}
 
@@ -50,7 +50,7 @@ We work closely with other CA State Agencies to make sure our data is used to pr
 
 -   The [California Department of Public Health (CDPH)](https://www.cdph.ca.gov/) is the state department responsible for public health in California. We\'re building stronger relationships with some of their programs (e.g., [Center for Healthy Communities](https://www.cdph.ca.gov/Programs/CCDPHP/Pages/Program-Landing1.aspx)) to more efficiently and effectively achieve our respective missions.
 
-## Other State and Regional Water Board Programs
+### Other State and Regional Water Board Programs
 
 The State Water Resources Control Board (State Water Board) and the nine Regional Water Quality Control Boards (Regional Water Boards), collectively known as the California Water Boards (Water Boards) are dedicated to a single mission:
 
