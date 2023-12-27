@@ -26,7 +26,7 @@ book:
     
   sidebar:
     style: "docked"
-    logo: "images/WaterBoards_logo.png"
+    logo: "images/logos.png"
     # type: "light"
     # background: "#002151"
     # foreground: "light"
