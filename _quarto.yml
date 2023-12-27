@@ -1,17 +1,36 @@
 project:
   type: website
 
-book:
+website:
+  page-navigation: true
   title: "CA SWAMP Bioaccumulation Monitoring Program and Safe to Eat Workgroup Frequently Asked Questions"
-  author: "CA Surface Water Ambient Monitoring Program (SWAMP)"
-  date: "2024-01-01"
-  search: true
+  site-url: "https://cawaterboarddatacenter.github.io/stew-faq/"
   repo-url: https://github.com/CAWaterBoardDataCenter/stew-faq
-  repo-actions: [edit, issue]
-  downloads: [pdf, epub]
-  sharing: [twitter, facebook]
-  chapters:
+  repo-actions: [edit, source, issue]
+  favicon: images/logos.png
   
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-By CA Water Board, 2024"
+    
+  sidebar:
+    background: "#002151"
+    logo: "images/logos.png"
+    favicon: images/logos.png
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html
+        text: "STEW Webpage"
+      - icon: github
+        href: https://github.com/CAWaterBoardDataCenter/stew-faq
+        text: "STEW FAQ"
+  
+style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
     - index.qmd
     - network.qmd
     - data-use-wq.qmd
@@ -22,23 +41,21 @@ book:
     - swamp-stew.qmd
     - regs.qmd
     - contribute.qmd
-   
-    
-  sidebar:
-    style: "docked"
-    logo: "images/logos.png"
-    # type: "light"
-    # background: "#002151"
-    # foreground: "light"
-    border: true
 
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    fontsize: 1em
 
-editor: visual
 
-# comments:
-#   hypothesis: true
+filters:
+  - include-files.lua
+  - quarto
+
+execute:
+  freeze: auto
