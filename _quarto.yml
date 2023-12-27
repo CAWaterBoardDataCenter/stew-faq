@@ -1,71 +1,71 @@
-project:
-  type: website
+  project:
+    type: website
 
-website:
-  page-navigation: true
-  title: "CA SWAMP Bioaccumulation Monitoring Program and Safe to Eat Workgroup Frequently Asked Questions"
-  site-url: "https://cawaterboarddatacenter.github.io/stew-faq/"
-  repo-url: https://github.com/CAWaterBoardDataCenter/stew-faq
-  repo-actions: [edit, source, issue]
-  favicon: images/logos.png
-  
-  page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By CA Water Board, 2024"
-    
-  sidebar:
-    background: "#002151"
-    logo: "images/logos.png"
+  website:
+    page-navigation: true
+    title: "CA SWAMP Bioaccumulation Monitoring Program and Safe to Eat Workgroup Frequently Asked Questions"
+    site-url: "https://cawaterboarddatacenter.github.io/stew-faq/"
+    repo-url: https://github.com/CAWaterBoardDataCenter/stew-faq
+    repo-actions: [edit, source, issue]
     favicon: images/logos.png
-    pinned: true
-    align: center
-    tools: 
-      - icon: globe
-        href: https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html
-        text: "STEW Webpage"
-      - icon: github
-        href: https://github.com/CAWaterBoardDataCenter/stew-faq
-        text: "STEW FAQ"
   
-style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-    - href: index.qmd
-      text: Welcome!
-    - href: network.qmd
-      text: Who are our partners?
-    - href: data-use-wq.qmd
-      text: How is our data used to protect and restore water quality?
-    - href: data-use-human.qmd
-      text: How is our data used to protect human health?
-    - href: data-use-faq.qmd
-      text: Other data use FAQs
-    - href: science.qmd
-      text: Bioaccumulation science & monitoring FAQs
-    - href: advise.qmd
-      text: Consumption risks & advise FAQs 
-    - href: swamp-stew.qmd
-      text: General SWAMP & STEW FAQs
-    - href: regs.qmd
-      text: Laws, Regulations, Standards & Thresholds FAQs
-    - href: contribute.qmd
-      text: Contributing
+    page-footer:
+      right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+      left: "&copy; CC-By CA Water Board, 2024"
+    
+    sidebar:
+      background: "#002151"
+      logo: "images/logos.png"
+      favicon: images/logos.png
+      pinned: true
+      align: center
+      tools: 
+        - icon: globe
+          href: https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html
+          text: "STEW Webpage"
+        - icon: github
+          href: https://github.com/CAWaterBoardDataCenter/stew-faq
+          text: "STEW FAQ"
+  
+      style: "docked"
+      search: true
+      collapse-level: 1
+      contents:
+        - href: index.qmd
+          text: Welcome!
+        - href: network.qmd
+          text: Who are our partners?
+        - href: data-use-wq.qmd
+          text: How is our data used to protect and restore water quality?
+        - href: data-use-human.qmd
+          text: How is our data used to protect human health?
+        - href: data-use-faq.qmd
+          text: Other data use FAQs
+        - href: science.qmd
+          text: Bioaccumulation science & monitoring FAQs
+        - href: advise.qmd
+          text: Consumption risks & advise FAQs 
+        - href: swamp-stew.qmd
+          text: General SWAMP & STEW FAQs
+        - href: regs.qmd
+          text: Laws, Regulations, Standards & Thresholds FAQs
+        - href: contribute.qmd
+          text: Contributing
 
-format:
-  html:
-    theme:
-      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
-      dark: [cosmo, theme-dark.scss]
-    code-copy: true
-    code-overflow: wrap
-    toc: true
-    fontsize: 1em
+  format:
+    html:
+      theme:
+        light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+        dark: [cosmo, theme-dark.scss]
+      code-copy: true
+      code-overflow: wrap
+      toc: true
+      fontsize: 1em
 
 
-filters:
-  - include-files.lua
-  - quarto
+  filters:
+    - include-files.lua
+    - quarto
 
-execute:
-  freeze: auto
+  execute:
+    freeze: auto
