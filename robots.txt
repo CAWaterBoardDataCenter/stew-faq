@@ -1,1 +1,1 @@
-Sitemap: https://github.com/CAWaterBoardDataCenter/stew-faq/sitemap.xml
+Sitemap: https://cawaterboarddatacenter.github.io/stew-faq/sitemap.xml
