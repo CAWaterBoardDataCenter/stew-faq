@@ -1,23 +1,26 @@
 project:
-  type: book
+  type: website
 
 book:
-  title: "User Manual for CA Water Board's Tribal Water Data Map"
-  author: "CA Water Board's Office of Information Management and Analysis (OIMA)"
-  date: "2023-08-24"
+  title: "CA SWAMP Bioaccumulation Monitoring Program and Safe to Eat Workgroup Frequently Asked Questions"
+  author: "CA Surface Water Ambient Monitoring Program (SWAMP)"
+  date: "2023-12-27"
   search: true
-  repo-url: https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual
+  repo-url: https://github.com/CAWaterBoardDataCenter/stew-faq
   repo-actions: [edit, issue]
   downloads: [pdf, epub]
   sharing: [twitter, facebook]
   chapters:
   
     - index.qmd
-    - about-oima.qmd
-    - map-guide.qmd
-    - layer-guide.qmd
-    - resources.qmd
-    - contacts.qmd
+    - network.qmd
+    - data-use-wq.qmd
+    - data-use-human.qmd
+    - data-use-faq.qmd
+    - science.qmd
+    - advise.qmd
+    - swamp-stew.qmd
+    - regs.qmd
     - contribute.qmd
    
     
