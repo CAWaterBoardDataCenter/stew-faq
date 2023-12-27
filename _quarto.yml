@@ -38,16 +38,14 @@
           text: How is our data used to protect and restore water quality?
         - href: data-use-human.qmd
           text: How is our data used to protect human health?
-        - href: data-use-faq.qmd
-          text: Other data use FAQs
-        - href: science.qmd
-          text: Bioaccumulation science & monitoring FAQs
-        - href: advise.qmd
-          text: Consumption risks & advise FAQs 
-        - href: swamp-stew.qmd
-          text: General SWAMP & STEW FAQs
-        - href: regs.qmd
-          text: Laws, Regulations, Standards & Thresholds FAQs
+        - section: TBD.qmd
+          text: Other FAQs
+          contents:
+            - swamp-stew.qmd
+            - advise.qmd
+            - science.qmd
+            - data-use-faq.qmd
+            - regs.qmd
         - href: contribute.qmd
           text: Contributing
 
