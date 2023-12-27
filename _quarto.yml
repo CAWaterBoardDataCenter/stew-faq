@@ -14,7 +14,6 @@
       left: "&copy; CC-By CA Water Board, 2024"
     
     sidebar:
-      background: "#D9E3E4"
       logo: "images/logos.png"
       favicon: images/logos.png
       pinned: true

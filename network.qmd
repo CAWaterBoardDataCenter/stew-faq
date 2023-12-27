@@ -12,7 +12,7 @@ Below is a visual representation of the partners currently in our network as wel
 
 ### SWAMP Bioaccumulation Monitoring Program Contractors
 
-**Moss Landing Marine Laboratories\' (MLML)** [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/): Our MLML/MPSL partners lead the sample collection and processing efforts.
+Moss Landing Marine Laboratories\' (MLML) [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/): Our MLML/MPSL partners lead the sample collection and processing efforts.
 
 [San Francisco Estuary Institute (SFEI)](https://www.sfei.org/programs/cw): Our SFEI partners lead the data analysis, interpretation and reporting process, and help `Co-chair the STEW`!
 
