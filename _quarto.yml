@@ -31,16 +31,26 @@ style: "docked"
     search: true
     collapse-level: 1
     contents:
-    - index.qmd
-    - network.qmd
-    - data-use-wq.qmd
-    - data-use-human.qmd
-    - data-use-faq.qmd
-    - science.qmd
-    - advise.qmd
-    - swamp-stew.qmd
-    - regs.qmd
-    - contribute.qmd
+    - href: index.qmd
+      text: Welcome!
+    - href: network.qmd
+      text: Who are our partners?
+    - href: data-use-wq.qmd
+      text: How is our data used to protect and restore water quality?
+    - href: data-use-human.qmd
+      text: How is our data used to protect human health?
+    - href: data-use-faq.qmd
+      text: Other data use FAQs
+    - href: science.qmd
+      text: Bioaccumulation science & monitoring FAQs
+    - href: advise.qmd
+      text: Consumption risks & advise FAQs 
+    - href: swamp-stew.qmd
+      text: General SWAMP & STEW FAQs
+    - href: regs.qmd
+      text: Laws, Regulations, Standards & Thresholds FAQs
+    - href: contribute.qmd
+      text: Contributing
 
 format:
   html:
