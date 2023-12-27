@@ -38,7 +38,7 @@
           text: How is our data used to protect and restore water quality?
         - href: data-use-human.qmd
           text: How is our data used to protect human health?
-        - section: TBD.qmd
+        - section: other-faq/index.qmd
           text: Other FAQs
           contents:
             - swamp-stew.qmd
