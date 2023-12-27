@@ -4,7 +4,7 @@ project:
 book:
   title: "CA SWAMP Bioaccumulation Monitoring Program and Safe to Eat Workgroup Frequently Asked Questions"
   author: "CA Surface Water Ambient Monitoring Program (SWAMP)"
-  date: "2023-12-27"
+  date: "2024-01-01"
   search: true
   repo-url: https://github.com/CAWaterBoardDataCenter/stew-faq
   repo-actions: [edit, issue]
