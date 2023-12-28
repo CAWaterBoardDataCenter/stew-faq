@@ -76,4 +76,6 @@ Related to (2) and (3) above, when a State or Regional Board amends Water Qualit
 
 If and when the Water Boards consider updating water quality goals or objectives (thresholds) in their statewide or regional Water Quality Control Plans, it is highly recommended that those revisions utilize SWAMP Bioaccumulation Monitoring Program data, and leverage the subject matter expertise concentrated in the [STEW](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/) to inform those update decisions. 
 
-See the `FAQ` for more information about and definitions of Water Quality Goals, Water Quality Objectives, and related terms. Also see the `FAQ` for more information on current water quality objectives (thresholds) related to the safety of eating fish and shellfish in California. 
+Also see these related FAQs:
+
+-   [What is the difference between Water Quality Standards, Water Quality Criteria, Water Quality Goals and Water Quality Objectives?](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/regs.html#what-is-the-difference-between-water-quality-standards-water-quality-criteria-water-quality-goals-and-water-quality-objectives)

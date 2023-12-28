@@ -6,17 +6,17 @@ The [Office of Environmental Health Hazard Assessment](https://oehha.ca.gov/) (O
 
 Advisories are developed through a multi-step process that includes:
 
-CREATE AND INSERT GRAPHIC
+![Graphical representation of the OEHHA Fish Advisory Development Process](images/advisory-process.png){fig-alt="Graphical linear workflow representing the five step OEHHA Fish Advisory Development Process. Each step is described in detail below."}
 
 ## (1) Sample Collection
 
-The majority of samples are collected by the Program with guidance from the STEW, according to the associated Quality Assurance Project Plan (QAPP) and Monitoring Plan. All QAPPs, monitoring plans, and related documents are compiled in the `Program’s Document Library (coming soon!)`. `Also see the FAQ for more information on this step`.   
+The majority of samples are collected by the Program with guidance from the STEW, according to the associated Quality Assurance Project Plan (QAPP) and Monitoring Plan.
 
 Additional samples are collected by water utilities, Federal Energy Regulation Commission (FERC) relicensing, and other governmental and non-governmental organizations.
 
 ## (2) Sample Analysis
 
-The samples collected by the Program with guidance from the STEW are generally analyzed by Moss Landing Marine Laboratories\' (MLML) [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/) and/or contracted to other certified laboratories, according to the associated Quality Assurance Project Plan (QAPP) and Monitoring Plan. All QAPPs, monitoring plans, and related documents are compiled in the `Program’s Document Library. Also see the FAQ for more information on this step.`
+The samples collected by the Program with guidance from the STEW are generally analyzed by Moss Landing Marine Laboratories' (MLML) [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/) and/or contracted to other certified laboratories, according to the associated Quality Assurance Project Plan (QAPP) and Monitoring Plan.
 
 ## (3) Data Retrieval
 
@@ -36,14 +36,14 @@ OEHHA reviews the data to ensure they meet criteria necessary for robust, consis
 | **Water Body Type**     | **Water Body Size** | **Minimum Number of Sampling Locations** | **Minimum Number of Individuals per Species per Water Body** |
 |                         |                     |                                          |                                                              |
 |                         | **(hectare)**       |                                          |                                                              |
-+=========================+=====================+==========================================+==============================================================+
++:========================+:===================:+:========================================:+:============================================================:+
 | Lake/Reservoir          | \< 500              | 1                                        | 9                                                            |
 +-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
-| 500 - 1,000             | 2                   | 10                                       |                                                              |
+|                         | 500 - 1,000         | 2                                        | 10                                                           |
 +-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
-| 1,000 - 5,000           | 2 - 4               | 10 - 20                                  |                                                              |
+|                         | 1,000 - 5,000       | 2 - 4                                    | 10 - 20                                                      |
 +-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
-| \> 5,000                | 2 - 4               | 10 - 20                                  |                                                              |
+|                         | \> 5,000            | 2 - 4                                    | 10 - 20                                                      |
 +-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
 | Rivers/Creeks           | n/a                 | 1 per 25-mile segment                    | 3 - 9 per 25-mile segment                                    |
 +-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
@@ -67,9 +67,7 @@ OEHHA compares the tissue concentration for each chemical in each species at a w
 -   OEHHA Advisory Tissue Levels (ATLs)
 -   Levels of beneficial omega-3 fatty acids
 -   The distribution of contaminant levels
--   How to simplify communication  
-
-Also see the `FAQ for more information of OEHHA ATLs`
+-   How to simplify communication
 
 ## (5) Advisory Development & Posting
 
@@ -85,6 +83,6 @@ Local Health Officers are responsible for conspicuously posting fish advisories 
 
 ## Additional Resources
 
--   [OEHHA\'s Protocol for Fish Sampling and Analysis to Support the Development of Fish Advisories in California](https://oehha.ca.gov/media/downloads/fish/report/fishadvisorysamplinganalysisprotocolreport2022.pdf) (Aug 2022)
+-   [OEHHA's Protocol for Fish Sampling and Analysis to Support the Development of Fish Advisories in California](https://oehha.ca.gov/media/downloads/fish/report/fishadvisorysamplinganalysisprotocolreport2022.pdf) (Aug 2022)
 -   [OEHHA Water Body Prioritization Process for Developing or Updating Fish Advisories](https://oehha.ca.gov/media/downloads/fish/report/fishadvisoryprioritizationprocessreport2023.pdf) (June 2023)
 -   See the Apr. 2023 STEW Meeting [Notes](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2023/stew-meeting-notes-20230419.pdf) (page 5-6), [Recording](https://www.youtube.com/watch?v=GmtICxyKTCU&t=3961s), and [Slides](https://drive.google.com/file/d/1GW0QKt6IAY4HrtHxHPRQlsKWDH6ViUTg/view) (page 12-22) for more details on the OEHHA process for prioritizing the development of fish advisories and their priorities for 2023.

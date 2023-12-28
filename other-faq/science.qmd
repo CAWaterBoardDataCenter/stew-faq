@@ -8,7 +8,7 @@ Bioaccumulation monitoring can give us information about which fish and shellfis
 
 For more on bioaccumulation monitoring in California, see the [SWAMP Bioaccumulation Monitoring Program webpage](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) and related fact sheet ([English](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/bioaccumulationprogram-factsheet-english-20220308.pdf), [Spanish](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_SpanishFactSheet_070822_ACC.pdf), [Simplified Chinese](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_ChineseSimpleFactSheet_050922_ACC.pdf), [Traditional Chinese](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_ChineseTraditionalFactSheet_070722_ACC.pdf), [Hmong](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_HmongFactSheet_070822_ACC.pdf), [Korean](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_KoreranFactSheet_070722_ACC.pdf), [Tagalog](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_TagalogFactSheet_070822_ACC.pdf)).
 
-For more information on which fish and shellfish are safer to eat in California waterbodies, see the [Safe to Eat Portal ](https://step.sfei.org/)or the [OEHHA Fish Advisories website](https://oehha.ca.gov/fish/advisories).
+For more information on which fish and shellfish are safer to eat in California waterbodies, see the [Safe to Eat Portal](https://step.sfei.org/)or the [OEHHA Fish Advisories website](https://oehha.ca.gov/fish/advisories).
 
 ## Why is bioaccumulation monitoring important? What difference will it make to the health of Californians?
 
@@ -42,7 +42,7 @@ The [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/wa
 
 The SWAMP Bioaccumulation Monitoring Program regularly coordinates or partners with other programs that conduct bioaccumulation monitoring in California, including: 
 
--   [US EPA National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys) in the nation\'s [coastal areas](https://www.epa.gov/national-aquatic-resource-surveys/ncca), [lakes, ponds, and reservoirs](https://www.epa.gov/national-aquatic-resource-surveys/nla), [rivers and streams](https://www.epa.gov/national-aquatic-resource-surveys/nrsa), and [wetlands](https://www.epa.gov/national-aquatic-resource-surveys/nwca)
+-   [US EPA National Aquatic Resource Surveys](https://www.epa.gov/national-aquatic-resource-surveys) in the nation's [coastal areas](https://www.epa.gov/national-aquatic-resource-surveys/ncca), [lakes, ponds, and reservoirs](https://www.epa.gov/national-aquatic-resource-surveys/nla), [rivers and streams](https://www.epa.gov/national-aquatic-resource-surveys/nrsa), and [wetlands](https://www.epa.gov/national-aquatic-resource-surveys/nwca)
 -   The San Francisco Estuary Institute (SFEI) [Regional Monitoring Program for Water Quality in San Francisco Bay](https://www.sfei.org/rmp) (Bay RMP)
 -   The Central Valley Regional Water Quality Control Board (Central Valley Region; Region 5) [Delta Regional Monitoring Program](https://deltarmp.org/) (Delta RMP)
 -   The Southern California Coastal Water Research Project (SCCWRP) [Southern California Bight Regional Monitoring Program](https://www.sccwrp.org/about/research-areas/regional-monitoring/southern-california-bight-regional-monitoring-program/) (Bight RMP)
@@ -66,4 +66,26 @@ Pollutants analyzed: The main pollutants (referred to as contaminants in the Saf
 
 ### **What is being monitored now?**
 
-See the `STEW Home Page Announcements` - the Highlights section has information on current and upcoming monitoring.
+See the table below for recent and upcoming SWAMP Program monitoring and associated reports.
+
++---------------------+------------------------------------+-------------------+
+| **Monitoring Year** | **Monitoring Element**             | **Report**        |
++=====================+====================================+===================+
+| 2020                | Coast part 2 of 3                  | 2025              |
++---------------------+------------------------------------+-------------------+
+| 2021                | Bass Lakes Panel 4                 | 2024\*            |
++---------------------+------------------------------------+-------------------+
+| 2022                | Rivers (partial)                   | 2024\*            |
+|                     |                                    |                   |
+|                     | Realignment (San Diego Region)     |                   |
++---------------------+------------------------------------+-------------------+
+| 2023                | Bass Lakes Panel 5                 | 2024              |
++---------------------+------------------------------------+-------------------+
+| 2024                | Coast part 3 of 3                  | 2025              |
++---------------------+------------------------------------+-------------------+
+| 2025                | Statewide focus TBD                | 2026              |
+|                     |                                    |                   |
+|                     | Realignment (San Francisco Region) |                   |
++---------------------+------------------------------------+-------------------+
+
+: \* Report to be completed after receipt of organics data
