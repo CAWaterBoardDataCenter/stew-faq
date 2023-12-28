@@ -2,7 +2,7 @@
 
 ## What is the difference between Water Quality Standards, Water Quality Criteria, Water Quality Goals and Water Quality Objectives?
 
-![Graphical comparison of terms from the Federal Clean Water Act and California Water Code](/images/fed-state-terms.jpg){fig-alt="Federal Water Quality Standards relate to CA Water Quality Goals. Federal Designated Uses relate to CA Beneficial Uses and associated designations. Federal Water Quality Criteria (consisting of numeric and narrative criteria) relate to CA Water Quality Objectives (consisting of numeric thresholds and narrative information)" fig-align="center" width="500"}
+![Graphical comparison of terms from the Federal Clean Water Act and California Water Code](/images/fed-state-terms.jpg){fig-alt="Federal Water Quality Standards relate to CA Water Quality Goals. Federal Designated Uses relate to CA Beneficial Uses and associated designations. Federal Water Quality Criteria (consisting of numeric and narrative criteria) relate to CA Water Quality Objectives (consisting of numeric thresholds and narrative information)" fig-align="center" width="1000"}
 
 **Water Quality Standards** are at the core of all water management programs, and provide a regulatory basis for water quality management activities authorized under the [Federal Clean Water Act](https://www.epa.gov/laws-regulations/summary-clean-water-act) and Division 7 of the California Water Code, referred to as the [Porter-Cologne Water Quality Control Act](http://www.waterboards.ca.gov/laws_regulations/docs/portercologne.pdf).  
 
