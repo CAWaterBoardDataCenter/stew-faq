@@ -1,4 +1,4 @@
-# General SWAMP Bioaccumulation Monitoring Program & STEW FAQs
+# General Program & STEW FAQs
 
 ## What is the difference between the SWAMP Bioaccumulation Monitoring Program and the Safe to Eat Workgroup?
 
@@ -6,7 +6,7 @@ The [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/wa
 
 The [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/) (STEW) helps guide Program implementation, and brings together state and federal agencies, academia, and non-governmental organizations with an interest in bioaccumulation related research, fish advisory development, and statewide monitoring.
 
-The Program and the STEW work collaboratively to address questions related to the condition of a waterbody (status), how it changes over time (trends), causes and sources of pollutants and how effective programs are at reducing bioaccumulation in California\'s water bodies. Program activities are supported and guided by the STEW, to ensure the data collected through statewide monitoring address these questions and support development of fish advisories. 
+The Program and the STEW work collaboratively to address questions related to the condition of a waterbody (status), how it changes over time (trends), causes and sources of pollutants and how effective programs are at reducing bioaccumulation in California's water bodies. Program activities are supported and guided by the STEW, to ensure the data collected through statewide monitoring address these questions and support development of fish advisories. 
 
 For more on how the Program and STEW collaborate to conduct bioaccumulation monitoring in California, see the Program & STEW Fact Sheet ([English](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/bioaccumulationprogram-factsheet-english-20220308.pdf), [Spanish](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_SpanishFactSheet_070822_ACC.pdf), [Simplified Chinese](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_ChineseSimpleFactSheet_050922_ACC.pdf), [Traditional Chinese](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_ChineseTraditionalFactSheet_070722_ACC.pdf), [Hmong](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_HmongFactSheet_070822_ACC.pdf), [Korean](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_KoreranFactSheet_070722_ACC.pdf), [Tagalog](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2022/BioaccumulationProgram_TagalogFactSheet_070822_ACC.pdf))
 
@@ -30,13 +30,13 @@ Please note that the Program is interested in meeting with all California Native
 
 ## What is the SWAMP Bioaccumulation Monitoring Program Realignment? Which Water Board Region(s) have completed the process? Which Water Board Region(s) are up next?
 
-### **What is the SWAMP Bioaccumulation Monitoring Program Realignment?** 
+### **What is the SWAMP Bioaccumulation Monitoring Program Realignment?**
 
 The [SWAMP Bioaccumulation Monitoring Program Realignment](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring/program_realignment.html) is an effort to intentionally and systemically incorporate Tribal and community perspectives and needs into Program efforts to:
 
 -   Build stronger connections between the Program and other Water Boards Divisions, Regions, and programs
 -   Build stronger relationships with Tribes and communities
--   Fill in data and information gaps regarding the question: \"Is it safe to eat fish and shellfish from our waters?\"
+-   Fill in data and information gaps regarding the question: "Is it safe to eat fish and shellfish from our waters?"
 
 ### **Which Water Board Region(s) have completed the process? Which Water Board Region(s) are up next?**
 

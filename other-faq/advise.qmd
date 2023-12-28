@@ -26,7 +26,7 @@ You can also find California fish advisories associated with bioaccumulation mon
 
 The Office of Environmental Health Hazard Assessment (OEHHA) is responsible for issuing [fish consumption advisories](https://oehha.ca.gov/fish/advisories), which are guidelines that recommend how often you can safely eat fish caught from water bodies in California. 
 
-OEHHA staff developed ATLs as a starting point in the process to develop consumption advice. ATLs are not absolute values that always lead to the same fish consumption recommendation. Other factors are considered (for example, levels of beneficial omega-3 fatty acids, the distribution of contaminant levels, and how to simplify communication) before OEHHA issues consumption advice. OEHHA\'s ATLs, as well as advisories and safe eating guidelines based on them, balance the risks and benefits from fish consumption. FCGs are not used to develop advisories.
+OEHHA staff developed ATLs as a starting point in the process to develop consumption advice. ATLs are not absolute values that always lead to the same fish consumption recommendation. Other factors are considered (for example, levels of beneficial omega-3 fatty acids, the distribution of contaminant levels, and how to simplify communication) before OEHHA issues consumption advice. OEHHA's ATLs, as well as advisories and safe eating guidelines based on them, balance the risks and benefits from fish consumption. FCGs are not used to develop advisories.
 
 For more details, see:
 
