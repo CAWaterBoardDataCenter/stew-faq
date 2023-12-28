@@ -2,18 +2,16 @@
 
 ## Who can contribute
 
-Currently, only members of the OIMA Team are able to make *edits* to this User Manual and the Map, however we are always looking for feedback!
+Currently, only SWAMP Bioaccumulation Monitoring Program Coordinator and other SWAMP staff are able to make edits to this User Manual and the Map, however we are always looking for feedback!
 
 ::: callout-important
 ## We want your feedback!
 
-If you have recommendations for improvement related to the Map or this User Manual you can send it to us by:
-
--   Completing the [Tribal Water Data Map Survey](https://bit.ly/TWDM_Ideas), OR
+If you have recommendations for improvement related to the STEW FAQ resrouces you can send it to us by:
 
 -   Emailing Anna Holder at: [anna.holder\@waterboards.ca.gov](mailto:anna.holder@waterboards.ca.gov), OR
 
--   Submitting a [GitHub Issue](https://github.com/CAWaterBoardDataCenter/tribal-water-data-map-manual/issues)
+-   Submitting a [GitHub Issue](https://github.com/CAWaterBoardDataCenter/stew-faq/issues)
 
     -   Note this requires the individual to have a GitHub Account.
     -   If you would like to create a GitHub Account, complete Step 3 in the [Setup Section](https://cawaterboarddatacenter.github.io/tribal-water-data-map-manual/contribute.html#setup) below; no other steps need to be completed to submit an Issue.
@@ -25,7 +23,7 @@ We develop the content for this User Manual using RStudio, build the book using 
 
 ### Setup
 
-To contribute, OIMA Team members must do the following, and it should only take about 20 minutes to complete:
+To contribute, team members must do the following, and it should only take about 20 minutes to complete:
 
 1.  **Install R and RStudio**
 
