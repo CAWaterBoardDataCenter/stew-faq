@@ -1,1 +1,34 @@
 # Consumption risks & advise FAQs
+
+## What are the risks of eating contaminated fish and shellfish? How can I reduce my risk?
+
+### **What are the risks of eating contaminated fish and shellfish?**
+
+When we eat animals that contain a lot of pollutants ([chemicals](https://oehha.ca.gov/fish/chemicals-fish)), we can experience several adverse health effects. The amounts of pollutants found in fish and shellfish in California are not known to cause immediate sickness. However, pollutants can collect in the body over time and they may eventually affect your health or that of your children. Some of the adverse health effects that might occur from long-term exposure to high levels of pollutants in fish and shellfish include increased risk of cancer, damage to the developing nervous system in the fetus and in young children, and damage to the reproductive system.
+
+#### **How can I reduce my risks of eating contaminated fish and shellfish?**
+
+Fish and shellfish are an important part of a healthful diet. You can reduce your exposure to harmful pollutants in fish and shellfish by following [OEHHA advisories that apply to places where you fish](https://oehha.ca.gov/fish/advisories) and [tips for catching, preparing, and cooking fish](https://oehha.ca.gov/fish/general-health-advice-people-catching-and-eating-sport-fish-california).
+
+For more information, see the [Benefits and Risks of Eating Fish](https://oehha.ca.gov/fish/benefits-risks).
+
+## What are California Fish Advisories and where can I find them?
+
+[California fish advisories](https://oehha.ca.gov/fish/advisories) are guidelines that recommend how often you can safely eat fish caught from water bodies in California.
+
+The Office of Environmental Health Hazard Assessment (OEHHA) is responsible for issuing fish advisories and safe eating guidelines, and they provide two sets of guidelines for eating fish, one for each of the following populations: women 18-49 years and children 1-17 years ([sensitive population](https://oehha.ca.gov/fish/women-and-children)), and women 50 years and older and men 18 years and older (general population).
+
+There are over [100 site-specific advisories](https://oehha.ca.gov/fish/ca-fishmap) for lakes, rivers, bays, reservoirs, and the coast. For water bodies without site-specific advice, or for species not included in a site-specific advisory, look for the appropriate [statewide advisory](https://oehha.ca.gov/fish/advisories#Statewide).
+
+You can also find California fish advisories associated with bioaccumulation monitoring data in the [Safe to Eat Portal](https://step.sfei.org/).
+
+## How does OEHHA develop California Fish Advisories?
+
+The Office of Environmental Health Hazard Assessment (OEHHA) is responsible for issuing [fish consumption advisories](https://oehha.ca.gov/fish/advisories), which are guidelines that recommend how often you can safely eat fish caught from water bodies in California. 
+
+OEHHA staff developed ATLs as a starting point in the process to develop consumption advice. ATLs are not absolute values that always lead to the same fish consumption recommendation. Other factors are considered (for example, levels of beneficial omega-3 fatty acids, the distribution of contaminant levels, and how to simplify communication) before OEHHA issues consumption advice. OEHHA\'s ATLs, as well as advisories and safe eating guidelines based on them, balance the risks and benefits from fish consumption. FCGs are not used to develop advisories.
+
+For more details, see:
+
+-   [How are bioaccumulation data used to protect human health in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-human.html)
+-   [OEHHA Water Body Prioritization Process for Developing or Updating Fish Advisories](https://oehha.ca.gov/media/downloads/fish/report/fishadvisoryprioritizationprocessreport2023.pdf) (June 2023)
