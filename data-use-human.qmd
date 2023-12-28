@@ -1,1 +1,90 @@
 # How are bioaccumulation data used to protect human health in CA?
+
+## Overview
+
+The [Office of Environmental Health Hazard Assessment](https://oehha.ca.gov/) (OEHHA) is the lead state agency for the assessment of health risks posed by environmental contaminants; OEHHA uses our data to develop site specific and statewide [fish advisories](https://oehha.ca.gov/fish/advisories).
+
+Advisories are developed through a multi-step process that includes:
+
+CREATE AND INSERT GRAPHIC
+
+## (1) Sample Collection
+
+The majority of samples are collected by the Program with guidance from the STEW, according to the associated Quality Assurance Project Plan (QAPP) and Monitoring Plan. All QAPPs, monitoring plans, and related documents are compiled in the `Program’s Document Library (coming soon!)`. `Also see the FAQ for more information on this step`.   
+
+Additional samples are collected by water utilities, Federal Energy Regulation Commission (FERC) relicensing, and other governmental and non-governmental organizations.
+
+## (2) Sample Analysis
+
+The samples collected by the Program with guidance from the STEW are generally analyzed by Moss Landing Marine Laboratories\' (MLML) [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/) and/or contracted to other certified laboratories, according to the associated Quality Assurance Project Plan (QAPP) and Monitoring Plan. All QAPPs, monitoring plans, and related documents are compiled in the `Program’s Document Library. Also see the FAQ for more information on this step.`
+
+## (3) Data Retrieval
+
+OEHHA retrieves fish contaminant data from the [California Environmental Data Exchange Network (CEDEN) database](http://ceden.org/).
+
+## (4) Data Review, Analysis & Interpretation
+
+### **Data Review**
+
+OEHHA reviews the data to ensure they meet criteria necessary for robust, consistent statewide fish advisory development. Criteria include: 
+
+1.  [size limits]{.underline}, which are as: greatest shell diameter for mollusks, carapace length for crustaceans, and total length for finfish unless indicated otherwise
+
+2.  [sample size]{.underline}, which varies by water body size and type:
+
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| **Water Body Type**     | **Water Body Size** | **Minimum Number of Sampling Locations** | **Minimum Number of Individuals per Species per Water Body** |
+|                         |                     |                                          |                                                              |
+|                         | **(hectare)**       |                                          |                                                              |
++=========================+=====================+==========================================+==============================================================+
+| Lake/Reservoir          | \< 500              | 1                                        | 9                                                            |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| 500 - 1,000             | 2                   | 10                                       |                                                              |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| 1,000 - 5,000           | 2 - 4               | 10 - 20                                  |                                                              |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| \> 5,000                | 2 - 4               | 10 - 20                                  |                                                              |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| Rivers/Creeks           | n/a                 | 1 per 25-mile segment                    | 3 - 9 per 25-mile segment                                    |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| Estuaries/Enclosed Bays | n/a                 | Size dependent                           | Size dependent                                               |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+| Open Coast              | n/a                 | 3 blocks                                 | 10 per block                                                 |
++-------------------------+---------------------+------------------------------------------+--------------------------------------------------------------+
+
+3.  [data quality,]{.underline} which includes whether the dataset includes the minimum data necessary for fish consumption advisory development. Minimum data requirements include: Composite Sample ID, Composite Sample Date, Composite Common Name, Composite Scientific Name, Composite Project Name, Composite Latitude, Composite Longitude, Composite Station Name, Number of Fish per Composite, Composite Tissue Name (e.g., fillet), Composite Tissue Prep (e.g., skin off), Analytical Method, Analyte (including moisture and lipid), Unit (e.g., ng/g wet weight; %), Result (in wet weight), Method Detection Limit, Reporting Limit, Total Length, Minimum (millimeter, mm), Total Length, Maximum (mm), Total Length, Average (mm)
+
+4.  [water body priority]{.underline}. OEHHA is able to develop 9-12 advisories per year and updates the list of eligible priority water bodies annually. Feedback and requests from the bioaccumulation community can influence final priority decisions and is always welcome. It is recommended that individuals who would like to provide feedback on OEHHA priorities do so by emailing [fish\@oehha.ca.gov](mailto:fish@oehha.ca.gov) or during OEHHA presentations at STEW meetings.
+
+### **Data Analysis**
+
+OEHHA uses the dataset to calculate a tissue concentration for each chemical in each species at a water body.
+
+### **Data Interpretation**
+
+OEHHA compares the tissue concentration for each chemical in each species at a water body to a suite of factors to develop consumption advice that balance the risks and benefits from fish consumption. Factors considered include:
+
+-   OEHHA Advisory Tissue Levels (ATLs)
+-   Levels of beneficial omega-3 fatty acids
+-   The distribution of contaminant levels
+-   How to simplify communication  
+
+Also see the `FAQ for more information of OEHHA ATLs`
+
+## (5) Advisory Development & Posting
+
+OEHHA develops a final report and corresponding poster(s) and distributes the information by:
+
+1.  sending a press release to local news agencies
+2.  sending a Fish Information and Alerts email to the [OEHHA email list](https://oehha.ca.gov/about/listserv)
+3.  posting the information on social media (i.e. [Twitter](https://twitter.com/OEHHA), [Linkedin](https://www.linkedin.com/company/office-of-environmental-health-hazard-assessment/), [Facebook](http://www.facebook.com/OEHHA/)) 
+
+OEHHA provides *all* fish advisory posters in English and Spanish. OEHHA can provide fish advisory posters in the following additional languages: Arabic, Armenian, Simplified Chinese, Traditional Chinese, Farsi, Japanese, Khmer, Korean, Laotian, Punjabi, Russian, Samoan, Tagalog, Vietnamese
+
+Local Health Officers are responsible for conspicuously posting fish advisories in areas where contaminated fish or shellfish may be caught, including piers, commercial passenger fishing vessels, and shore areas where fishing occurs. See [Assembly Bill 762](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB762) (AB 762, 2019) for more information.
+
+## Additional Resources
+
+-   [OEHHA\'s Protocol for Fish Sampling and Analysis to Support the Development of Fish Advisories in California](https://oehha.ca.gov/media/downloads/fish/report/fishadvisorysamplinganalysisprotocolreport2022.pdf) (Aug 2022)
+-   [OEHHA Water Body Prioritization Process for Developing or Updating Fish Advisories](https://oehha.ca.gov/media/downloads/fish/report/fishadvisoryprioritizationprocessreport2023.pdf) (June 2023)
+-   See the Apr. 2023 STEW Meeting [Notes](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/docs/2023/stew-meeting-notes-20230419.pdf) (page 5-6), [Recording](https://www.youtube.com/watch?v=GmtICxyKTCU&t=3961s), and [Slides](https://drive.google.com/file/d/1GW0QKt6IAY4HrtHxHPRQlsKWDH6ViUTg/view) (page 12-22) for more details on the OEHHA process for prioritizing the development of fish advisories and their priorities for 2023.
