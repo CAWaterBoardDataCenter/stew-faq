@@ -45,3 +45,13 @@ Past and known upcoming Realignment Cycles are provided below:
 1.  The San Diego Region Realignment: 2021 - 2023
 2.  The San Francisco Region Realignment: 2024 - 2026
 3.  The third Realignment cycle region will be decided in 2025
+
+## What is the meaning behind the fish icon?
+
+Meet Bardo - your friendly bioaccumulation buddy!
+
+![Image of the Program and STEW mascot, a fish called Bardo](/images/bardo.png){fig-alt="Image of a multi-colored blue fish, with a dorsal fin made of a bar graph and a lateral line made from the wave in the Water Boards logo" fig-align="left" width="200"}
+
+Bardo is the mascot for both the the [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) (Program) and the [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html) (STEW), and is often added to products developed by either or both groups (e.g., slides, fact sheets, reports, this FAQ resource, etc.)
+
+The name Bardo has mixed beginnings. It’s roots can be traced to German, Aboriginal, and Tibetan origins. Bardo means “water” and is used in several cultures.
