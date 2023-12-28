@@ -1,1 +1,49 @@
 # General bioaccumulation data use FAQs
+
+## Where can I find California bioaccumulation monitoring data & results?
+
+You can find SWAMP Bioaccumulation Monitoring Program data and associated fish advisories in the [Safe to Eat Portal](https://step.sfei.org/).
+
+SWAMP Bioaccumulation Monitoring Program data can also be found on the [California Environmental Data Exchange Network](http://ceden.org/index.shtml) (CEDEN), which is also available on the [California Open Data Portal](https://data.ca.gov/dataset/surface-water-aquatic-organism-tissue-sample-results).
+
+Data collected by all California SWAMP [Statewide](https://www.waterboards.ca.gov/water_issues/programs/swamp/monitoring/statewide_monitoring_programs.html) and [Regional](https://www.waterboards.ca.gov/water_issues/programs/swamp/monitoring/regional_monitoring_programs/) Monitoring Programs, including the Bioaccumulation Monitoring Program, can be explored and downloaded via the [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/).
+
+## What is the entire data management cycle for bioaccumulation monitoring data? Where can I find resources for each phase of the data life cycle?
+
+The [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) (Program) considers each phase of the [data life cycle](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html) to be critical in generating, managing, and maintaining high quality and useful data that is meant to be used by our partners to keep the public informed of which fish are safer to eat in California waterbodies, as well as to protect and restore water quality throughout the state.
+
+Below we highlight where information on each phase of our data life cycle can be found.  ![ADD CAPTION AND ALT TEXT](/images/data-life-cycle.png){width="500"}
+
+### (1) [Plan and Prepare](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#plan_prepare)
+
+Before the beginning of each survey - and sometimes before each monitoring season - we publish a Monitoring Plan that outlines the scope and focus of that monitoring effort. Moreover the Program also maintains and regularly updates [Quality Assurance Program Plans (QAPPs)](https://www.waterboards.ca.gov/water_issues/programs/quality_assurance/qapp.html), which describe our project's goals, data needs and assessment, responsible individuals, quality assurance plan, quality control measures, and reporting deadlines. All monitoring plans, QAPPs and related documents are compiled in the Program\'s Document Library.   
+
+### (2) [Collect and Process](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#collect_process)
+
+Our partners at Moss Landing Marine Laboratories\' (MLML) [Marine Pollution Studies Laboratory (MPSL)](https://mlml.sjsu.edu/mpsl-mlml/) lead the sample collection and processing efforts, as described in the associated monitoring plan and QAPP.  After each monitoring season, MLML/MPSL developes and shares a Cruise Report, which summarizes the sampling activities that took place that season. All cruise reports and related documents are compiled in the Program\'s Document Library. 
+
+### (3) [Assure and Analyze](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#assure_analyze)
+
+The laboratories we use to analyze our tissue samples have [ELAP Accreditation](https://www.waterboards.ca.gov/drinking_water/certlic/labs/), and undergo a quality assurance and quality control process before submitting data to the [SWAMP Information Management and Quality Assurance Center (SWAMP IQ)](https://www.waterboards.ca.gov/water_issues/programs/swamp/swamp_iq/). SWAMP IQ conduct a thorough quality assurance review and verification of the data before adding the data to public data systems.  
+
+### (4) [Preserve and Store](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#preserve_store)
+
+SWAMP IQ reviewed data is stored in the [California Environmental Data Exchange Network (CEDEN) database](http://ceden.org/) as well as added to the [California Open Data Portal](https://data.ca.gov/). 
+
+### (5) [Publish and Share](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#publish_share)
+
+We share our data and information in a number of different ways:
+
+-   Once SWAMP IQ review and verification is complete, data can be pulled from CEDEN as well as the California Open Data Portal. 
+
+-   Our partners at the [San Francisco Estuary Institute (SFEI)](https://www.sfei.org/programs/cw) lead the data analysis, interpretation and reporting process. The SFEI Team drafts the appropriate report (1 year data report vs multi-year interpretive or technical report) and facilitates a peer review process with `Safe to Eat Workgroup members and the SWAMP Bioaccumulation Peer Review Pane`l. All reports and related documents are compiled in the Program\'s Document Library. 
+
+-   Users can also interact with our data through the [Safe to Eat Portal](https://step.sfei.org/) (which only contains bioaccumulation related data) as well as the [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/) (which contains all SWAMP data).  
+
+### (6) [Discover and Integrate](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#discover_integrate)
+
+As one might expect this is an ongoing process. We continuously work with our partners and the STEW to learn from our past efforts and develop recommendations for how the SWAMP Bioaccumulation Monitoring Program might evolve future efforts to ensure the Program continues to generate data and information that can help shape public health and environmental policies to support the preservation, enhancement, and restoration of California's water resources, and serve the communities that are impacted by consuming contaminated fish and shellfish. 
+
+### (7) [Describe](https://www.waterboards.ca.gov/resources/oima/cowi/data_management_handbook.html#describe)
+
+We describe and document each phase of our process concurrent to the six phases, as described above.
