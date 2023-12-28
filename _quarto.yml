@@ -41,15 +41,15 @@
         - section: other-faq/index.qmd
           text: Other FAQs
           contents:
-            - href: swamp-stew.qmd
-              text: Program & STEW
-            - href: advise.qmd
+            - other-faq/swamp-stew.qmd
+              #text: Program & STEW
+            - href: other-faq/advise.qmd
               text: Consumption risks & advise
-            - href: science.qmd
+            - href: other-faq/science.qmd
               text: Bioaccumulation science & monitoring
-            - href: data-use-faq.qmd
+            - href: other-faq/data-use-faq.qmd
               text: General bioaccumulation data use
-            - href: regs.qmd
+            - href: other-faq/regs.qmd
               text: Laws, Regulations, Standards & Thresholds
         - href: contribute.qmd
           text: Contributing
