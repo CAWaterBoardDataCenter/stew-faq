@@ -36,7 +36,7 @@ We share our data and information in a number of different ways:
 
 -   Once SWAMP IQ review and verification is complete, data can be pulled from CEDEN as well as the California Open Data Portal. 
 
--   Our partners at the [San Francisco Estuary Institute (SFEI)](https://www.sfei.org/programs/cw) lead the data analysis, interpretation and reporting process. The SFEI Team drafts the appropriate report (1 year data report vs multi-year interpretive or technical report) and facilitates a peer review process with `Safe to Eat Workgroup members and the SWAMP Bioaccumulation Peer Review Pane`l. All reports and related documents are compiled in the Program's Document Library. 
+-   Our partners at the [San Francisco Estuary Institute (SFEI)](https://www.sfei.org/programs/cw) lead the data analysis, interpretation and reporting process. The SFEI Team drafts the appropriate report (1 year data report vs multi-year interpretive or technical report) and facilitates a peer review process with [Safe to Eat Workgroup members and the SWAMP Bioaccumulation Peer Review Panel](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/#membership). All reports and related documents are compiled in the Program's Document Library. 
 
 -   Users can also interact with our data through the [Safe to Eat Portal](https://step.sfei.org/) (which only contains bioaccumulation related data) as well as the [SWAMP Data Dashboard](https://gispublic.waterboards.ca.gov/swamp-data/) (which contains all SWAMP data).  
 
