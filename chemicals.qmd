@@ -27,4 +27,4 @@ A brief summary of each chemical with the following FAQs are provided below:
 Much of the information on this page came from the following sources:
 
 -   [OEHHA Chemicals in Fish Webpage](https://oehha.ca.gov/fish/chemicals-fish)
--   [Biomonitoring California Chemical Fact Sheets Webpage](https://biomonitoring.ca.gov/chemicals/fact-sheets)
+-   Biomonitoring California Chemical Fact Sheets - [English](https://biomonitoring.ca.gov/chemicals/fact-sheets) \| [Spanish](https://biomonitoring.ca.gov/chemicals/fact-sheets-spanish)
