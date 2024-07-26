@@ -5,13 +5,9 @@ Here you will find answers to frequently asked questions (FAQs) related to the [
 FAQs within this resource include:
 
 -   [Who are our partners?](https://cawaterboarddatacenter.github.io/stew-faq/network.html)
-
 -   [How are bioaccumulation data used to protect and restore water quality in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-wq.html)
-
 -   [How are bioaccumulation data used to protect human health in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-human.html)
-
 -   FAQs related to other topics, including:
-
     -   [The SWAMP Bioaccumulation Monitoring Program and STEW](https://cawaterboarddatacenter.github.io/stew-faq/swamp-stew.html)
 
     -   [Consumption Risks & Advise](https://cawaterboarddatacenter.github.io/stew-faq/advise.html)
