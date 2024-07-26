@@ -1,0 +1,30 @@
+# Harmful Chemicals FAQs
+
+There are a number of chemicals that can accumulate in fish and shellfish tissues and, when consumed by humans, cause adverse health effects. These harmful chemicals are monitored by the SWAMP Bioaccumulation Monitoring Program.
+
+A brief summary of each chemical with the following FAQs are provided below:
+
+-   What is it?
+-   Where does it come from?
+-   What are the potential health concerns?
+-   How can I protect myself and my family?
+-   Where can I learn more?
+
+## Mercury
+
+## PCBs
+
+## **Pesticides**
+
+## Selenium
+
+## **PBDEs**
+
+## PFAS
+
+## Additional Resources
+
+Much of the information on this page came from the following sources:
+
+-   [OEHHA Chemicals in Fish Webpage](https://oehha.ca.gov/fish/chemicals-fish)
+-   [Biomonitoring California Chemical Fact Sheets Webpage](https://biomonitoring.ca.gov/chemicals/fact-sheets)
