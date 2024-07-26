@@ -1,27 +1,27 @@
-# Other FAQ Topics {.unnumbered}
+# **Welcome to the STEW FAQ!**
 
-Here you will find answers to other FAQs related to the [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) (Program), the [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/index.html) (STEW) and related bioaccumulation topics.
+Here you will find answers to frequently asked questions (FAQs) related to the [SWAMP Bioaccumulation Monitoring Program](https://www.waterboards.ca.gov/water_issues/programs/swamp/bioaccumulation_monitoring.html) (Program), the [Safe to Eat Workgroup](https://mywaterquality.ca.gov/monitoring_council/bioaccumulation_oversight_group/) (STEW), and related bioaccumulation topics.
 
-Thems and FAQs within this section include:
+FAQs within this resource include:
 
--   [The SWAMP Bioaccumulation Monitoring Program and STEW](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/swamp-stew.html)
-    -   What is the difference between the SWAMP Bioaccumulation Monitoring Program and the Safe to Eat Workgroup?
-    -   How often does the Safe to Eat Workgroup meet? When is the next meeting? Who can attend?
-    -   How can I get involved with SWAMP Bioaccumulation Monitoring Program (Program) and/or the Safe to Eat Workgroup (STEW) activities?
-    -   How can a California Native American Tribe or Tribal Organization request a meeting to learn more about SWAMP Bioaccumulation Monitoring Program and/or the Safe to Eat Workgroup activities?
-    -   What is the SWAMP Bioaccumulation Monitoring Program Realignment? Which Water Board Region(s) have completed the process? Which Water Board Region(s) are up next?
--   [Consumption risks & advise](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/advise.html)
-    -   What are the risks of eating contaminated fish and shellfish? How can I reduce my risk?
-    -   What are California Fish Advisories and where can I find them?
-    -   How does OEHHA develop California Fish Advisories?
--   [Bioaccumulation science & monitoring](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/science.html)
-    -   What is bioaccumulation?
-    -   Why is bioaccumulation monitoring important? What difference will it make to the health of Californians?
-    -   What are the sources of fish and shellfish contamination in California?
-    -   Who is conducting bioaccumulation monitoring in California?
-    -   What locations, species and pollutants have been monitored historically? What is being monitored now?
--   [General bioaccumulation data use](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/data-use-faq.html)
-    -   Where can I find California bioaccumulation monitoring data & results?
-    -   What is the entire data management cycle for bioaccumulation monitoring data? Where can I find resources for each phase of the data life cycle?
--   [Laws, Regulations, Standards & Thresholds](https://cawaterboarddatacenter.github.io/stew-faq/other-faq/regs.html)
-    -   What is the difference between Water Quality Standards, Water Quality Criteria, Water Quality Goals and Water Quality Objectives?
+-   [Who are our partners?](https://cawaterboarddatacenter.github.io/stew-faq/network.html)
+
+-   [How are bioaccumulation data used to protect and restore water quality in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-wq.html)
+
+-   [How are bioaccumulation data used to protect human health in CA?](https://cawaterboarddatacenter.github.io/stew-faq/data-use-human.html)
+
+-   FAQs related to other topics, including:
+
+    -   [The SWAMP Bioaccumulation Monitoring Program and STEW](https://cawaterboarddatacenter.github.io/stew-faq/swamp-stew.html)
+
+    -   [Consumption Risks & Advise](https://cawaterboarddatacenter.github.io/stew-faq/advise.html)
+
+    -   [Harmful Chemicals](Harmful Chemicals FAQs)
+
+    -   [Bioaccumulation Science & Monitoring](Bioaccumulation science & monitoring FAQs)
+
+    -   [Bioaccumulation Data Life Cycle](https://cawaterboarddatacenter.github.io/stew-faq/data-cycle.html)
+
+    -   [Laws & Regulations](https://cawaterboarddatacenter.github.io/stew-faq/regs.html)
+
+This [Quarto book](https://quarto.org/docs/books) is an open, living, and continuously iterating resource. If you have suggestions for additions or revisions you think should be incorporated into this resource, please follow the guidance provided in the [Contributing](https://cawaterboarddatacenter.github.io/stew-faq/contribute.html) section.
